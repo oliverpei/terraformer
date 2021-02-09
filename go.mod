@@ -62,8 +62,8 @@ require (
 	golang.org/x/oauth2 v0.0.0-20201208152858-08078c50e5b5
 	golang.org/x/text v0.3.4
 	gonum.org/v1/gonum v0.7.0
-	google.golang.org/api v0.36.0
-	google.golang.org/genproto v0.0.0-20201210142538-e3217bee35cc
+	google.golang.org/api v0.39.0
+	google.golang.org/genproto v0.0.0-20201214200347-8c77b98c765d
 	gopkg.in/jarcoal/httpmock.v1 v1.0.0-00010101000000-000000000000 // indirect
 	k8s.io/apimachinery v0.20.2
 	k8s.io/client-go v0.20.2
