@@ -17,7 +17,7 @@ require (
 	github.com/IBM/keyprotect-go-client v0.5.2
 	github.com/IBM/networking-go-sdk v0.12.1
 	github.com/IBM/vpc-go-sdk v0.4.1
-	github.com/OctopusDeploy/go-octopusdeploy v1.6.0
+	github.com/OctopusDeploy/go-octopusdeploy v1.7.23
 	github.com/aliyun/alibaba-cloud-sdk-go v1.60.295
 	github.com/aliyun/aliyun-tablestore-go-sdk v4.1.2+incompatible
 	github.com/apache/openwhisk-client-go v0.0.0-20210106144548-17d556327cd3
@@ -60,7 +60,7 @@ require (
 	github.com/zclconf/go-cty v1.7.0
 	github.com/zorkian/go-datadog-api v2.30.0+incompatible
 	golang.org/x/oauth2 v0.0.0-20201208152858-08078c50e5b5
-	golang.org/x/text v0.3.4
+	golang.org/x/text v0.3.6
 	gonum.org/v1/gonum v0.7.0
 	google.golang.org/api v0.36.0
 	google.golang.org/genproto v0.0.0-20201210142538-e3217bee35cc
